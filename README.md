@@ -1,3 +1,3 @@
-Snake game
-snake game design in HTML CSS AND JAVASCRIPT
-Must try
+# Snake Game
+Snake Game Design in HTML CSS and JAVASCRIPT
+Must Try
